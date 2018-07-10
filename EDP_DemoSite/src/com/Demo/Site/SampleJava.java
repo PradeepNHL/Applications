@@ -4,6 +4,6 @@ public class SampleJava {
 	
 	public static void main(String[] args){
 			
-		System.out.println("Deploying the Sample Web Application in Tomcat");
+		System.out.println("Deploying the Sample Web Application");
 	}
 }
